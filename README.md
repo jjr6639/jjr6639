@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:0a0a2e,100:000000&height=280&section=header&text=JORDAN%20JOE%20RUNYON&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=S%20D%20E%20T%20%20%E2%96%AA%20%20Q%20A%20%20A%20U%20T%20O%20M%20A%20T%20I%20O%20N%20%20%E2%96%AA%20%20F%20U%20L%20L%20-%20S%20T%20A%20C%20K&descSize=16&descAlignY=60&descColor=9d00ff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:0a0a2e,100:000000&height=280&section=header&text=JORDAN%20RUNYON&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=S%20D%20E%20T%20%20%E2%96%AA%20%20Q%20A%20%20A%20U%20T%20O%20M%20A%20T%20I%20O%20N%20%20%E2%96%AA%20%20F%20U%20L%20L%20-%20S%20T%20A%20C%20K&descSize=16&descAlignY=60&descColor=9d00ff&animation=twinkling" width="100%"/>
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/%E2%96%B6_PORTFOLIO-thedevsite-00d4ff?style=flat-square&labelColor=000000&color=00d4ff)](https://runyondeveloper.netlify.app)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/%E2%96%B6_GITHUB-jjr6639-9d00ff?style=flat-square&labelColor=000000&color=9d00ff)](https://github.com/jjr6639)&nbsp;&nbsp;
-[![Penn State](https://img.shields.io/badge/%E2%96%B6_PENN_STATE-IST_2026-00d4ff?style=flat-square&labelColor=000000&color=00d4ff)](https://ist.psu.edu)
+[![Penn State](https://img.shields.io/badge/%E2%96%B6_PENN_STATE-IST_2027-00d4ff?style=flat-square&labelColor=000000&color=00d4ff)](https://ist.psu.edu)
 
 </div>
 

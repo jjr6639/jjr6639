@@ -1,143 +1,163 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff0022,100:0d0d0d&height=200&section=header&text=Jordan%20Joe%20Runyon&fontSize=48&fontColor=ff0022&fontAlignY=38&desc=SDET%20%7C%20QA%20Automation%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descColor=888888&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:0a0a2e,100:000000&height=280&section=header&text=JORDAN%20JOE%20RUNYON&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=S%20D%20E%20T%20%20%E2%96%AA%20%20Q%20A%20%20A%20U%20T%20O%20M%20A%20T%20I%20O%20N%20%20%E2%96%AA%20%20F%20U%20L%20L%20-%20S%20T%20A%20C%20K&descSize=16&descAlignY=60&descColor=9d00ff&animation=twinkling" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-thedevsite-ff0022?style=for-the-badge&logo=netlify&logoColor=ff0022&labelColor=0d0d0d)](https://runyondeveloper.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-jjr6639-ff0022?style=for-the-badge&logo=github&logoColor=ff0022&labelColor=0d0d0d)](https://github.com/jjr6639)
-[![Penn State](https://img.shields.io/badge/Penn%20State-IST%20Design%20%26%20Dev-ff0022?style=for-the-badge&logo=academia&logoColor=ff0022&labelColor=0d0d0d)](https://ist.psu.edu)
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Initializing+test+suites...;Page+Object+Model+%E2%9C%93;REST+API+coverage+%E2%9C%93;CI%2FCD+pipeline+active+%E2%9C%93;System+ready.)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/%E2%96%B6_PORTFOLIO-thedevsite-00d4ff?style=flat-square&labelColor=000000&color=00d4ff)](https://runyondeveloper.netlify.app)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/%E2%96%B6_GITHUB-jjr6639-9d00ff?style=flat-square&labelColor=000000&color=9d00ff)](https://github.com/jjr6639)&nbsp;&nbsp;
+[![Penn State](https://img.shields.io/badge/%E2%96%B6_PENN_STATE-IST_2026-00d4ff?style=flat-square&labelColor=000000&color=00d4ff)](https://ist.psu.edu)
 
 </div>
 
----
+<br/>
 
-## ☠️ About Me
-
-```typescript
-const jordan = {
-  name:       "Jordan Joe Runyon",
-  github:     "jjr6639",
-  location:   "Pennsylvania, USA",
-  education:  "B.S. Information Sciences & Technology — Penn State (2026)",
-  track:      "Design & Development",
-  specialty:  ["SDET", "QA Automation", "Full-Stack Development"],
-  status:     "⚡ Open to QA Automation & SDET internship opportunities",
-  os:         "Parrot OS Linux",
-  tools:      ["Selenium", "REST Assured", "TestNG", "Maven", "Jest", "k6"],
-};
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  > BOOT SEQUENCE INITIATED                                       ║
+║  > IDENTITY    : Jordan Joe Runyon  [ jjr6639 ]                  ║
+║  > LOCATION    : Pennsylvania, USA                               ║
+║  > EDUCATION   : B.S. IST — Penn State — Design & Dev — 2026    ║
+║  > SPECIALITY  : SDET | QA Automation | Full-Stack Dev           ║
+║  > STATUS      : OPEN TO QA AUTOMATION / SDET INTERNSHIPS        ║
+║  > OS          : Parrot OS Linux                                 ║
+║  > CLEARANCE   : ALL SYSTEMS NOMINAL                             ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
-
-## 🩸 Test Automation & SDET
-
-> Building multi-layer test suites — UI automation, API testing, load testing, and accessibility — integrated into CI/CD pipelines with structured reporting.
+<br/>
 
 <div align="center">
 
-![Selenium](https://img.shields.io/badge/Selenium-ff0022?style=for-the-badge&logo=selenium&logoColor=white&labelColor=0d0d0d)
-![Java](https://img.shields.io/badge/Java-ff0022?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d0d0d)
-![TestNG](https://img.shields.io/badge/TestNG-ff0022?style=for-the-badge&logo=testng&logoColor=white&labelColor=0d0d0d)
-![Maven](https://img.shields.io/badge/Maven-ff0022?style=for-the-badge&logo=apachemaven&logoColor=white&labelColor=0d0d0d)
-![REST Assured](https://img.shields.io/badge/REST%20Assured-ff0022?style=for-the-badge&logo=java&logoColor=white&labelColor=0d0d0d)
-![Jest](https://img.shields.io/badge/Jest-ff0022?style=for-the-badge&logo=jest&logoColor=white&labelColor=0d0d0d)
-![Supertest](https://img.shields.io/badge/Supertest-ff0022?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d0d0d)
-![k6](https://img.shields.io/badge/k6-ff0022?style=for-the-badge&logo=k6&logoColor=white&labelColor=0d0d0d)
-![Axe-core](https://img.shields.io/badge/Axe--core-ff0022?style=for-the-badge&logo=accessibility&logoColor=white&labelColor=0d0d0d)
-![Postman](https://img.shields.io/badge/Postman-ff0022?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d0d0d)
-![Newman](https://img.shields.io/badge/Newman-ff0022?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d0d0d)
-![Allure](https://img.shields.io/badge/Allure%20Reports-ff0022?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0d0d0d)
+## ◈ TEST AUTOMATION MATRIX
+
+<table>
+<tr>
+<td align="center" width="120"><img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=selenium&logoColor=00d4ff"/></td>
+<td align="center" width="120"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00d4ff"/></td>
+<td align="center" width="120"><img src="https://img.shields.io/badge/TestNG-000000?style=for-the-badge&logo=testng&logoColor=9d00ff"/></td>
+<td align="center" width="120"><img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=00d4ff"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/REST_Assured-000000?style=for-the-badge&logo=java&logoColor=9d00ff"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest&logoColor=00d4ff"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Supertest-000000?style=for-the-badge&logo=node.js&logoColor=9d00ff"/></td>
+<td align="center"><img src="https://img.shields.io/badge/k6-000000?style=for-the-badge&logo=k6&logoColor=00d4ff"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/Axe--core-000000?style=for-the-badge&logo=accessibility&logoColor=9d00ff"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00d4ff"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Newman-000000?style=for-the-badge&logo=postman&logoColor=9d00ff"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Allure-000000?style=for-the-badge&logo=statuspage&logoColor=00d4ff"/></td>
+</tr>
+</table>
+
+`POM` &nbsp;·&nbsp; `Testing Pyramid` &nbsp;·&nbsp; `STLC` &nbsp;·&nbsp; `Defect Lifecycle` &nbsp;·&nbsp; `Black / White / Gray Box`
 
 </div>
 
-**Patterns & Practices:** Page Object Model (POM) · Testing Pyramid · STLC · Defect Lifecycle · Black / White / Gray Box Testing
+<br/>
 
 ---
 
-## ⚡ Featured Projects
+## ◈ ACTIVE PROJECTS
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 ### 🔬 [ecodashboard-selenium-tests](https://github.com/jjr6639/ecodashboard-selenium-tests)
-> Selenium/TestNG end-to-end test suite for EcoDashboard — flagship of my QA portfolio.
+`Java` `Selenium` `TestNG` `Maven` `Allure` `GitHub Actions`
 
-- **Architecture:** Page Object Model (POM) with modular, maintainable test design
-- **Stack:** Java · Selenium WebDriver · TestNG · Maven · Allure Reports
-- **CI/CD:** GitHub Actions pipeline for automated test execution
+End-to-end Selenium suite for EcoDashboard. Page Object Model architecture, Allure reporting, GitHub Actions CI pipeline.
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🔌 [appwrite-api-tests](https://github.com/jjr6639/appwrite-api-tests)
-> REST API automated test suite for Appwrite backend services.
+`Java` `REST Assured` `TestNG` `Maven`
 
-- **Coverage:** CRUD operations, auth flows, schema validation, negative testing
-- **Stack:** Java · REST Assured · TestNG · Maven
+REST API automated tests for Appwrite — CRUD, auth flows, schema validation, negative testing.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧩 [shadcn-appwrite-tests](https://github.com/jjr6639/shadcn-appwrite-tests)
-> Automated component + API tests for a shadcn/ui frontend backed by Appwrite.
+`JavaScript` `Jest` `Supertest`
 
-- **Coverage:** UI component behavior · Appwrite REST API integration · E2E flows
-- **Stack:** JavaScript · Jest · Supertest
+Component + API tests for a shadcn/ui frontend wired to Appwrite. UI behavior, REST integration, E2E flows.
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🌿 [ecodashboard](https://github.com/jjr6639/ecodashboard)
-> Dockerized React/Express.js RSS aggregation dashboard — the app under test for my full QA curriculum.
+`React` `Express.js` `Node.js` `Docker`
 
-- **Stack:** React · Express.js · Node.js · Docker
-- **Test Coverage:** Selenium UI · REST Assured API · Jest/Supertest · k6 load · Axe-core a11y
+Dockerized RSS aggregation dashboard. Full test coverage: Selenium · REST Assured · Jest · k6 · Axe-core.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 [thedevsite](https://github.com/jjr6639/thedevsite)
-> Developer portfolio — built with React, Vite, and Tailwind CSS.
+`React` `Vite` `Tailwind CSS` `JavaScript`
 
-- **Stack:** React · Vite · Tailwind CSS · JavaScript
+Developer portfolio. Feel free to use it for inspiration.
 
----
+</td>
+<td width="50%" valign="top">
 
 ### ♠️ [IST261Project---DeckForge](https://github.com/jjr6639/IST261Project---DeckForge)
-> Java desktop app for Magic: The Gathering deck building.
+`Java` `Swing`
 
-- **Demonstrates:** TreeSets · HashMaps · Java Swing GUI
-- **Stack:** Java
+MTG deck builder demonstrating TreeSets, HashMaps, and Java Swing GUI.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💀 Full-Stack Development
+## ◈ FULL-STACK ARSENAL
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-ff0022?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d)
-![React Native](https://img.shields.io/badge/React%20Native-ff0022?style=for-the-badge&logo=react&logoColor=white&labelColor=0d0d0d)
-![Vue.js](https://img.shields.io/badge/Vue%203-ff0022?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0d0d0d)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-ff0022?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d0d0d)
-![Vite](https://img.shields.io/badge/Vite-ff0022?style=for-the-badge&logo=vite&logoColor=white&labelColor=0d0d0d)
-![TypeScript](https://img.shields.io/badge/TypeScript-ff0022?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d0d0d)
-![Node.js](https://img.shields.io/badge/Node.js-ff0022?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0d0d0d)
-![Express.js](https://img.shields.io/badge/Express.js-ff0022?style=for-the-badge&logo=express&logoColor=white&labelColor=0d0d0d)
-![Django](https://img.shields.io/badge/Django-ff0022?style=for-the-badge&logo=django&logoColor=white&labelColor=0d0d0d)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff0022?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d0d0d)
-![Docker](https://img.shields.io/badge/Docker-ff0022?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d0d0d)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-ff0022?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d0d0d)
-![Linux](https://img.shields.io/badge/Parrot%20OS-ff0022?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d0d0d)
-![Git](https://img.shields.io/badge/Git-ff0022?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0d0d)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00d4ff)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=9d00ff)
+![Vue.js](https://img.shields.io/badge/Vue_3-000000?style=for-the-badge&logo=vuedotjs&logoColor=00d4ff)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=9d00ff)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=00d4ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=9d00ff)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00d4ff)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=9d00ff)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=00d4ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=9d00ff)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00d4ff)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=9d00ff)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00d4ff)
+![Linux](https://img.shields.io/badge/Parrot_OS-000000?style=for-the-badge&logo=linux&logoColor=9d00ff)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ◈ SYSTEM METRICS
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jjr6639&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff0022&icon_color=ff0022&text_color=888888"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjr6639&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ff0022&text_color=888888"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jjr6639&show_icons=true&hide_border=true&bg_color=000000&title_color=00d4ff&icon_color=9d00ff&text_color=666688&ring_color=9d00ff"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjr6639&layout=compact&hide_border=true&bg_color=000000&title_color=00d4ff&text_color=666688"/>
 
-</div>
+<br/>
 
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=jjr6639&theme=dark&hide_border=true&background=0D0D0D&ring=ff0022&fire=ff0022&currStreakLabel=ff0022&sideLabels=888888&dates=444444)
+![Streak](https://streak-stats.demolab.com?user=jjr6639&theme=dark&hide_border=true&background=000000&ring=9d00ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=666688&dates=444466&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
@@ -145,8 +165,6 @@ const jordan = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:ff0022,100:0d0d0d&height=100&section=footer" width="100%"/>
-
-*"Break it before production does."*
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0a0a2e,60:0d0221,100:000000&height=120&section=footer&text=BREAK%20IT%20BEFORE%20PRODUCTION%20DOES&fontSize=18&fontColor=9d00ff&animation=twinkling" width="100%"/>
 
 </div>

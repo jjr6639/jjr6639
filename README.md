@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:0a0a2e,100:000000&height=280&section=header&text=JORDAN%20RUNYON&fontSize=52&fontColor=00ff41&fontAlignY=40&desc=S%20D%20E%20T%20%20%E2%96%AA%20%20Q%20A%20%20A%20U%20T%20O%20M%20A%20T%20I%20O%20N%20%20%E2%96%AA%20%20F%20U%20L%20L%20-%20S%20T%20A%20C%20K&descSize=16&descAlignY=60&descColor=39ff14&animation=twinkling&fontFamily=Share+Tech+Mono" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,30:0d0221,60:0a0a2e,100:000000&height=280&section=header&text=JORDAN%20RUNYON&fontSize=52&fontColor=00ff41&fontAlignY=40&desc=S%20D%20E%20T%20%20%E2%96%AA%20%20Q%20A%20%20A%20U%20T%20O%20M%20A%20T%20I%20O%20N%20%20%E2%96%AA%20%20F%20U%20L%20L%20-%20S%20T%20A%20C%20K&descSize=16&descAlignY=60&descColor=39ff14&animation=twinkling&fontFamily=Orbitron" width="100%"/>
 
 <br/>
 
@@ -157,6 +157,8 @@ MTG deck builder demonstrating TreeSets, HashMaps, and Java Swing GUI.
 <br/>
 
 ![Streak](https://streak-stats.demolab.com?user=jjr6639&theme=dark&hide_border=true&background=000000&ring=39ff14&fire=00ff41&currStreakLabel=00ff41&sideLabels=00cc33&dates=009922&currStreakNum=ffffff&sideNums=ffffff)
+
+</div>
 
 </div>type=venom&color=0:000000,30:0a0a2e,60:0d0221,100:000000&height=120&section=footer&text=BREAK%20IT%20BEFORE%20PRODUCTION%20DOES&fontSize=18&fontColor=9d00ff&animation=twinkling" width="100%"/>
 

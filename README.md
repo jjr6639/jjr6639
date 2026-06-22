@@ -18,7 +18,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║  > BOOT SEQUENCE INITIATED                                       ║
-║  > IDENTITY    : Jordan Joe Runyon  [ jjr6639 ]                  ║
+║  > IDENTITY    : Jordan Runyon                  ║
 ║  > LOCATION    : Pennsylvania, USA                               ║
 ║  > EDUCATION   : B.S. IST — Penn State — Design & Dev — 2027    ║
 ║  > SPECIALITY  : SDET | QA Automation | Full-Stack Dev           ║

@@ -8,7 +8,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/%E2%96%B6_PORTFOLIO-thedevsite-00d4ff?style=flat-square&labelColor=000000&color=00d4ff)](https://runyondeveloper.netlify.app)&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/%E2%96%B6_GITHUB-jjr6639-9d00ff?style=flat-square&labelColor=000000&color=9d00ff)](https://github.com/jjr6639)&nbsp;&nbsp;
 [![Penn State](https://img.shields.io/badge/%E2%96%B6_PENN_STATE-IST_2027-00d4ff?style=flat-square&labelColor=000000&color=00d4ff)](https://ist.psu.edu)
 
